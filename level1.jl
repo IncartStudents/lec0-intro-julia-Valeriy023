@@ -159,4 +159,4 @@ display(Atall)
 Atall\b
 
 A = randn(3,3)
-[A[:,1] A[:,1]]\b
+
